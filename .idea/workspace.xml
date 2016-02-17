@@ -24,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="gruntFile.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gruntFile.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gruntFile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.23214285">
               <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simple-javascript-inheritance.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/simple-javascript-inheritance.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.425926">
-              <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -207,18 +197,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gruntFile.js">
+    <entry file="file://$PROJECT_DIR$/simple-javascript-inheritance.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.18518518">
+          <caret line="205" column="17" selection-start-line="205" selection-start-column="17" selection-end-line="205" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/simple-javascript-inheritance.html">
+    <entry file="file://$PROJECT_DIR$/gruntFile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.425926">
-          <caret line="131" column="12" selection-start-line="131" selection-start-column="12" selection-end-line="131" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.23214285">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
           <folding />
         </state>
       </provider>
